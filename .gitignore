@@ -99,3 +99,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+convlstm_pytorch-code.code-workspace
